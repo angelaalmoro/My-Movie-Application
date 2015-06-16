@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:weightSum="1">
+
+    <ImageView
+        android:id="@+id/icon"
+        android:layout_width="22px"
+        android:layout_height="22px"
+        android:layout_marginLeft="4px"
+        android:layout_marginRight="10px"
+        android:layout_marginTop="4px"
+        android:src="@drawable/abc_ic_ab_back_mtrl_am_alpha" >
+    </ImageView>
+
+    <TextView
+
+        android:id="@+id/movieTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="28dp"
+        android:text="name"
+        android:textSize="20px"
+        android:layout_weight="4.21">
+    </TextView>
+
+</LinearLayout> 

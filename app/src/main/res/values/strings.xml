@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyMovieApplication</string>
+    <string name="movie_detail">Movie Detail</string>
+    <string name="action_settings">Settings</string>
+</resources>
